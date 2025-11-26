@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub
 
-I'm Daniel Quintanilla — a former pilot turned self-taught developer. Tech gave me the career path I didn’t find in aviation, and I’m now focused on Java, Spring Boot, and building clean, real-world backend apps. I'm actively looking for my first opportunity in tech and always open to feedback. Let’s connect!
+I'm **Daniel Quintanilla** — a former **pilot** turned **self-taught developer**. Tech gave me the career path I didn’t find in aviation, and I’m now focused on Java, Spring Boot, and building clean, real-world backend apps. I'm actively looking for my first opportunity in tech and always open to feedback. **Let’s connect!**
 
 - 🔭 I’m currently working on building backend projects using Java and Spring Boot
 - 🌱 I’m currently learning Spring Boot, REST APIs, and backend best practices
@@ -18,6 +18,11 @@ I'm Daniel Quintanilla — a former pilot turned self-taught developer. Tech gav
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48"/>
 </p>
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielQ5E&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielQ5&theme=tokyonight" />
+</p>
 <!--
 **DanielQ5/DanielQ5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
