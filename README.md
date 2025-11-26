@@ -6,6 +6,16 @@ I'm Daniel Quintanilla — a former pilot turned self-taught developer. Tech gav
 - 🌱 I’m currently learning Spring Boot, REST APIs, and backend best practices
 - 📫 I’m looking to collaborate on beginner-friendly or intermediate Java / Spring Boot projects
 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48"/>
+</p>
 
 <!--
 **DanielQ5/DanielQ5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
