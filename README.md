@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+I'm Daniel Quintanilla — a former pilot turned self-taught developer. Tech gave me the career path I didn’t find in aviation, and I’m now focused on Java, Spring Boot, and building clean, real-world backend apps. I'm actively looking for my first opportunity in tech and always open to feedback. Let’s connect!
+
+- 🔭 I’m currently working on building backend projects using Java and Spring Boot
+- 🌱 I’m currently learning Spring Boot, REST APIs, and backend best practices
+- 📫 I’m looking to collaborate on beginner-friendly or intermediate Java / Spring Boot projects
 
 
 <!--
