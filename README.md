@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my GitHub
+## Hi there 👋 Welcome to my GitHub!
 
 I'm **Daniel Quintanilla** — a former **pilot** turned **self-taught developer**. Tech gave me the career path I didn’t find in aviation, and I’m now focused on Java, Spring Boot, and building clean, real-world backend apps. I'm actively looking for my first opportunity in tech and always open to feedback. **Let’s connect!**
 
