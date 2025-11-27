@@ -19,13 +19,8 @@ I'm **Daniel Quintanilla** — a former **pilot** turned **self-taught developer
 </p>
 
 
-## 📊 GitHub Stats
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=DanielQ5&show_icons=true&theme=tokyonight
-  https://github-readme-streak-stats.herokuapp.com/?user=DanielQ5&theme=tokyonight
-</p>
 
-## 🔝 Top Languages
-<p align="center">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=DanielQ5&layout=compact&theme=tokyonight
-</p>
+## 📊 GitHub Stats
+!GitHub Stats
+![GitHub Streak](https://github-readmeop Languages
+
