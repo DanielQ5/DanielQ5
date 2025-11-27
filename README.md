@@ -20,7 +20,7 @@ I'm **Daniel Quintanilla** — a former **pilot** turned **self-taught developer
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielQ5E&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielQ5&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielQ5&theme=tokyonight" />
 </p>
 <!--
