@@ -18,10 +18,16 @@ I'm **Daniel Quintanilla** — a former **pilot** turned **self-taught developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38"/>
 </p>
 
-## 📊 GitHub Stats  
+
+## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielQ5&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielQ5&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=e&theme=blueberry&cache_seconds=1800
+  <img height="165" src="https://githubrokuapp.com/?user=DanielQ5&theme=blueberry
+</p>
+
+## 🔝 Top Languages
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=blueberry
 </p>
 <!--
 **DanielQ5/DanielQ5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
