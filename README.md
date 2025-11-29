@@ -19,6 +19,6 @@ I'm **Daniel Quintanilla** — a former **pilot** turned **self-taught developer
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielQ5&show_icons=true&theme=github_dark&bg_color=000000" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielQ5&show_icons=true&theme=github_dark&bg_color=000000&text_color=ffffff&title_color=ffffff" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielQ5&theme=github-dark-blue&background=000000" />
 </p>
